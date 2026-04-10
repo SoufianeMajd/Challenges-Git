@@ -1,11 +1,2 @@
--- PS C:\Users\majds\OneDrive\Desktop\Challenges> git show 7f65b9a
-commit 7f65b9afa094df553e83b7c968eab8d5325290f2
-Author: Soufiane Majd <majdsoufiane55@gmail.com>
-Date:   Mon Mar 9 14:23:36 2026 +0000
-
-    feat: premier des trois commits
-
-diff --git a/c1.txt b/c1.txt
-new file mode 100644
-index 0000000..d3e9170
-Binary files /dev/null and b/c1.txt differ
+Ceci est un fichier texte pour les conflits.
+Modification de la branche main.
