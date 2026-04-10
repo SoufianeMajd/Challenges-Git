@@ -1,2 +1,2 @@
 Ceci est un fichier texte pour les conflits.
-Modification de la branche main.
+Modification effectuee sur la branche feature/conflit, completement differente.
